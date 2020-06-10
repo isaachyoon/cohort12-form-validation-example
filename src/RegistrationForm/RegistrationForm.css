@@ -1,0 +1,18 @@
+label {
+  display: inline-block;
+  width: 150px;;
+}
+
+.form-group {
+  padding-bottom: 10px;
+}
+
+.registration {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.registration__button__group {
+  display: block;
+}
